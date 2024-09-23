@@ -1,0 +1,5 @@
+mnist_data/
+
+sst2_data/
+
+MNIST_model.pth
